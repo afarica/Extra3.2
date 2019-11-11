@@ -1,3 +1,4 @@
+# Напишите функцию который будет конвертировать Фаренгейт в Цельсии и наоборот.
 a=float(input("Enter the degrees:"))
 b=input("What to translate?(enter with F or C):")
 if b=="C": 
